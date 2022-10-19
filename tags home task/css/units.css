@@ -1,0 +1,21 @@
+body{
+    background-color: bisque;
+}
+h1{
+    font-size: 4em; text-align: center; color: rgb(114, 113, 113);
+}
+div{
+    display: inline-block;
+}
+.para1{
+    border: 1px solid black; width: 30%; font-size: 2em; background-color: blueviolet;
+}
+.para2{
+  border: 1px solid black; width: 30%; font-size: 2rem; background-color: aquamarine;
+}
+.para3{
+     width: 90vw; height:30vh; font-size: 5em; 
+}
+.para4{
+    font-family: 'Times New Roman', Times, serif; font-size: 20px; border: 3px black solid; background-color:palevioletred ;
+}

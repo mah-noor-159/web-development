@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    box-sizing: border-box;
+}
+header{
+    background-color: black;
+    color: white;
+    font-size: 3em;
+    padding:30px;
+}
+aside{
+    font-size: 20px;
+    width: 25%;
+ float: left;
+}
+aside h2{
+    border: 1px dashed grey; background-color: aqua;
+    width: 25%; display: block;
+}
+div{
+    display: inline-block;
+    width: 900px;
+    padding-left: 90px;
+    height: 0px;
+    margin-right: 0px;
+}
+h3{font-size: 30px;
+    padding-top: 25px;
+}
+p{
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+footer{
+    font-size: 30px; background-color: gray;
+    clear: left;
+    padding: 30px;
+}

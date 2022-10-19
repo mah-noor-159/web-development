@@ -1,0 +1,277 @@
+body{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.Homesec{
+    background-color: rgb(34, 34, 100);
+    width: 100%;
+}
+ .container{
+    border: 1px solid red;
+    padding: 50px;
+    margin: auto;
+
+}
+.homecontent{
+    font-size: 60px;
+    color: white;
+    padding-top: 10px 0px;
+    margin:0px 0px;
+}
+.homecontent h1 span{
+    color: rgb(206, 16, 79);
+    padding-top: 30px; 
+    padding-bottom: 0px;
+    margin: 0px;
+}
+.homecontent p{
+    font-size: 25px;
+    color: whitesmoke;
+    margin: 0px;
+    padding-bottom:30px ;
+}
+.btn{
+    font-size: 15px;
+    padding: 20px;
+    border-radius:30px;
+    color: white;
+}
+.bg1{
+    background-color:  rgb(206, 16, 79);
+
+}
+.bg2{
+    background-color: rgb(50, 22, 102);
+}
+.imagemusic{
+    width: 40%;
+    margin-top: 0px;
+    /* border: 1px solid red;  */
+    float: right; 
+    padding: 0px;
+    position: relative; 
+    top:-400px 
+}
+.access{
+    width: 100%;
+}
+.accessContent h1{
+    font-size: 60px;
+
+}
+.accessContent p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    /* border: 1px solid blue; */
+    width: 50%;
+    float: right;
+    height: 20vh;
+    position: relative;
+    left:400px;
+    top: -200px;
+}
+.accessContent .bg3{
+    background-color:  rgb(206, 16, 79);
+    position: relative;
+    left: 500px;
+    top: -200px;
+
+}
+.works{
+    background-image: url('../images/how-to-bg.jpg');
+}
+.works .container{
+    box-sizing: border-box;
+}
+.works .create{
+    /* border: 1px solid whitesmoke; */
+    width: 20%;
+    display: inline-block;
+}
+.works .plan{
+    /* border: 1px solid whitesmoke;  */
+     width: 20%;
+     display: inline-block;
+     margin-left: 15%;
+
+}
+ .downlod{
+     /* border: 1px solid whitesmoke;  */
+    width: 20%;
+    display: inline-block;
+    margin-left: 20%;
+}
+.works h2{
+    font-size: 20px;
+    color: white;
+    margin-bottom: 30px;
+}
+.works p{
+    font-size: 15px;
+    color: white;
+}
+.works h1{
+    font-size: 45px;
+    color: white;
+}
+.works span{
+    border: 1px solid rgb(206, 16, 79);
+    background-color: rgb(206, 16, 79);
+    padding: 20px;
+    border-radius: 28px;
+    margin: 30px 0px;
+}
+.works img{
+    position: relative;
+    left:20px;
+    top:25px;
+}
+.conceptContent h1{font-size: 40px;
+    coplor:black;
+    margin-bottom: 30px;
+}
+.conceptContent p{
+    font-size: 23px;
+    /* border: 1px solid royalblue; */
+    width: 50%;
+    float: right;
+    position: relative;
+    top: -130px;
+    left: -100px;
+}
+.images{
+    clear: both;
+    box-sizing: border-box; 
+    margin: 0px;
+}
+.images figcaption{
+    text-align: center;
+    font-size: 15px;
+    color: black;
+    margin-top: 8px;
+}
+.fig1{ 
+    /* border:2px solid rgb(95, 93, 93); */
+    width: 20%;
+    display: inline-block;
+    margin: 15px;  
+
+}
+.fig2{
+    /* border:2px solid white ; */
+    width: 20%;
+    display: inline-block;
+    margin: 15px;
+}
+.fig3{
+    /* border:2px solid white ; */
+    width: 20%;display: inline-block;
+    margin: 15px;
+}
+.fig4{
+    /* border:2px solid white ; */
+    width: 20%;
+    display: inline-block;
+    margin: 15px;
+}
+.sub{
+    background-color: #0a183d
+}
+.subContent h2{
+    font-size: 4.7rem;
+    color: white;
+}
+.subContent h3{
+    font-size: 3rem;
+    color: rgb(206, 16, 79);
+}
+.subContent p{
+    font-size: 2rem;
+    color: whitesmoke;
+    width: 45%;
+}
+.list{
+    color: whitesmoke;
+    font-size: 2.9rem;
+    text-align: left;
+    margin-left: 60%;
+    /* margin-bottom: 10%; */
+    margin-top: -40%;
+    background-color:#1c294a;
+    border-radius: 2rem;
+    width: 40%;
+}
+.list-text{
+    padding: 10%;
+    line-height: 9vh;
+    margin-left: 10%;
+    
+}
+.bg4{
+ background-color: rgb(206, 16, 79);
+    font-size: 1.9rem;
+    color: whitesmoke;
+}
+.premuium{
+    display: flexbox;
+}
+.premiumContent h2{
+    font-size: 4rem;
+}
+.premiumContent p{
+    width: 60%;
+    font-size: 2rem;
+    margin-left: 30%;
+    margin-top: -5%;
+}
+.love{
+    box-sizing: border-box;
+
+}
+.love img{
+    border-radius: 50%;
+    margin-left: 30px;
+    width: 50%;
+    height: 50%;
+}
+.love h3{
+   font-size: 2.9rem; 
+   text-align: center; 
+   font-family: "Montserrat", sans-serif  
+}
+.love p{
+    font-size: 1.9rem;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    padding-top: -5%;
+}
+.girl{
+     border-style: none;
+    display: inline-block;
+    margin-top: 5%;
+     margin-left: 20px; 
+    border-radius: 50%;
+    border: 1px;
+     width: 22%; 
+}
+.flower{
+  display: inline-block;
+  margin-top: 5%;
+   margin-left: 20px; 
+   width: 22%;
+}
+.phn {
+  display: inline-block;
+  margin-top: 5%;
+   margin-left: 20px; 
+  border-radius: 50%;
+   width:22%; 
+}
+.songs{
+    display: inline-block;
+    margin-top: 5%;
+     margin-left: 20px; 
+    border-radius: 50%;
+     width: 22%; 
+}

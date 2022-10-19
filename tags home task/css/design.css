@@ -1,0 +1,36 @@
+body{background-image: url("../images/23.jpg.jpg");
+    background-size:cover ;
+    background-position: top bottom;
+    background-attachment: scroll;
+
+}
+.overlay {
+     background-color: rgba(240, 235, 235, 0.836);
+}
+.HomeSection header{
+    padding-left: 30px;
+}
+
+.HomeSection header h1{
+    font-size: 60px;  text-transform:capitalize ; text-align:left; padding: 25px; margin:20px;
+}
+.HomeSection header h2{
+    font-size: 50px; text-transform: capitalize;padding: 25px; margin:20px; text-align: left;
+}
+.HomeSection hr{
+    border: 3px solid orange; margin-left: 50px;
+    text-align: left;
+}
+.HomeSection header p{
+    font-size: 25px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color:black; padding-left: 10px;
+    padding: 30px;
+    margin: 20px;
+    text-align: left;
+    
+}
+.button1{
+    padding: 5px;
+    margin-top: 20px ; margin-bottom: 10px; margin-left: 50px; margin-right: 10px;
+    background-color: black; color: white;
+    border-radius: 30px;
+}

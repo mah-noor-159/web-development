@@ -1,0 +1,18 @@
+.heading1{  text-align: center; text-decoration: underline; font-style: italic; text-transform: capitalize; color: blue;
+
+}
+.div1{
+    border: 10px solid blue;
+    padding: 50px;
+}
+.div2{
+    border: 12px dashed black;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 40px;
+}
+.div3{
+    border: 9px double yellowgreen;
+    padding: 30px 80px 50px 70px;
+}

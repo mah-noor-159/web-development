@@ -1,0 +1,21 @@
+body{
+    background-image: url("../images/24.jpg.jpg");
+    background-position: top bottom;
+    background-size: cover;
+}
+.HomeSection div { padding-left: 30px; margin: 5px 10px; 
+}
+.HomeSection h1{
+    margin-top: 70px; font-size: 50px;
+}
+.HomeSection h2{
+    margin-top: 85px; margin-bottom: 5px; font-size: 30px;
+}
+.HomeSection hr{
+    width: 90px; padding: 3px; margin:5px 0px 5px 20px ; border-radius: 2px; border:0px black solid; background-color: black;
+}
+.btn1{
+    margin: 10px; background-color: yellow; border-radius: 5px;
+}
+
+
